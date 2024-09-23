@@ -42,4 +42,8 @@ ipyleaflet
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
+seaborn
+cartopy
+squarify
+networkx
 bqplot
